@@ -1,0 +1,1 @@
+- fix Item using Price Column
